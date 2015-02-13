@@ -1,4 +1,4 @@
 # Reproducible-Research
 Coursera Reproducible Research course
 
-This is files for PA1
+This are the files for PA1
